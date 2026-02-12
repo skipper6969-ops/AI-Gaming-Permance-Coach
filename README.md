@@ -1,12 +1,12 @@
-AI Gaming Performance Coach
+AI GAMING PERFORMANCE COACH
 
 An AI-powered system that analyzes gameplay videos to help gamers improve their skills by providing performance insights and personalized feedback.
 
-Problem Statement
+Problem Statement:
 
 Many gamers want to improve their skills but don’t know what exactly to work on. Current methods rely on manual review or basic statistics, which do not provide actionable insights.
 
-Proposed Solution
+Proposed Solution:
 
 This project analyzes gameplay videos using computer vision and machine learning to detect:
 
@@ -20,7 +20,7 @@ Performance trends
 
 The system then provides feedback and improvement suggestions through a web dashboard.
 
-Features
+Features:
 
 Gameplay video upload
 
@@ -32,7 +32,7 @@ Feedback and suggestions
 
 Dashboard visualization
 
-Progress tracking (future scope)
+Progress tracking
 
 Technology Stack
 
@@ -54,7 +54,7 @@ Database:
 
 SQLite / MySQL
 
-Architecture Overview
+ARCHITECTUTE OVERVIEW
 
 The system consists of:
 
@@ -66,7 +66,7 @@ Video processing and AI module
 
 Database for storing results
 
-How to Run (Prototype)
+How to Run:
 
 Clone the repository
 
@@ -76,7 +76,7 @@ Run the Flask server
 
 Upload a gameplay video
 
-Future Improvements
+Future Improvements:
 
 Real-time gameplay analysis
 
