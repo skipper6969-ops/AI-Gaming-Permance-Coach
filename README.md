@@ -1,3 +1,5 @@
+![Uploading drf.png…]()
+
 🎮 AI GAMING PERFORMANCE COACH
 
 An AI-powered system that analyzes gameplay videos and provides performance insights, helping gamers identify weaknesses and improve efficiently.
